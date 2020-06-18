@@ -13,4 +13,4 @@ Friyay for June 19, 2020.
 5. Use the picture(s) and your story to make a website with mutliple pages. You can do 1 page per paragraph, or multiple paragraphs per page- but make the site with at least 3 pages!
 
 6. Add some border, make it pretty, do something fun with it!
-(https://user-images.githubusercontent.com/58038239/85061645-2ea3d400-b175-11ea-9878-ce8e3e073b90.png)
+![zombie](https://user-images.githubusercontent.com/58038239/85061645-2ea3d400-b175-11ea-9878-ce8e3e073b90.png)
